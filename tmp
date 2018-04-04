@@ -1,0 +1,6 @@
+total 36
+-rw-rw-r--. 1 admin admin   61 Mar 25 19:43 Makefile
+-rwxrwxr-x. 1 admin admin 9192 Apr  3 02:58 shell
+-rw-rw-r--. 1 admin admin 2743 Apr  3 22:39 shell.c
+-rwxrwxr-x. 1 admin admin 9008 Mar 25 19:37 shell.o
+-rw-rw-r--. 1 admin admin   35 Apr  3 22:39 tmp
